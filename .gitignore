@@ -1,0 +1,7 @@
+.Venv/
+.claude/
+.ipynb_checkpoints/
+__pycache__/
+
+# Raw Transfermarkt export, if you re-download it to rebuild clean/
+/*.csv
